@@ -1,6 +1,3 @@
-# 목차
-[TOC "float:left"]
-<br/>
 
 ### for을 이용해 계산하기
 
