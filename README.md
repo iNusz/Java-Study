@@ -9,7 +9,7 @@
 
 #### 2. 연산자
 - 산술연산자
-- 관계연산자
+- [관계연산자](https://github.com/iNusz/Java-Study/blob/master/Java/연산자/관계연산자.md)
 - 논리연산자
 
 #### 3. 조건문과 반복문
