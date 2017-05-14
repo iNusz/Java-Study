@@ -24,7 +24,7 @@
 	- String(Anagram)
 
 #### 5. 배열
-- ArrayList
+- [ArrayList](https://github.com/iNusz/Java-Study/blob/master/Java/배열/ArrayList/ArrayList.md)
 	- 게시판 만들기
 - 컬렉션 & 제네릭
 	- 제네릭을 이용한 피보나치수열 만들기
