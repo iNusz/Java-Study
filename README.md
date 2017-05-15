@@ -4,7 +4,7 @@
 
 - - -
 #### 1. 변수와 타입
-- 변수
+- [변수](https://github.com/iNusz/Java-Study/blob/master/Java/변수와%20타입/변수.md)
 - [데이터 타입](https://github.com/iNusz/Java-Study/blob/master/Java/변수와%20타입/데이터%20타입.md#예제)
 - 타입 변환
 
