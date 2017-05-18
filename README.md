@@ -6,7 +6,7 @@
 #### 1. 변수와 타입
 - [변수](https://github.com/iNusz/Java-Study/blob/master/Java/변수와%20타입/변수.md)
 - [데이터 타입](https://github.com/iNusz/Java-Study/blob/master/Java/변수와%20타입/데이터%20타입.md#예제)
-- 타입 변환
+- [타입 변환](https://github.com/iNusz/Java-Study/blob/master/Java/%EB%B3%80%EC%88%98%EC%99%80%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md)
 
 #### 2. 연산자
 - 산술연산자
